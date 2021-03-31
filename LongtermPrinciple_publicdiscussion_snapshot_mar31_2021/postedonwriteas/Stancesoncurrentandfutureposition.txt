@@ -1,0 +1,136 @@
+Current project status.Not free,Closed source,No ads,No tracking,Minimalistic GUI based(as of first writing,for final desicion go down).
+
+Again some of this is fixed and will always be.Or else,there is no point in development.
+
+The only acceptable thing to change is ads,source,money.
+
+Of course I am not going to repeat all the things stated in The Iesys 1st ani pitch like the invest pitch.
+1,small,stable,useful,not over minimalistic.
+2,hold the principal well.quality,choices,fast.
+
+So why pre 1st ani have ads or closed course or still think cost money is acceptable.
+
+Have ads fork,
+ads itself is just information,it is ok.to most peoplw and to me.especially when you want free stuff.Just like free test food or whatnot.
+Nothing inherited to be immoral.But of course is a huge red flag if you paid but still have it.
+
+Closed source,the code itself.The magic.The power.
+Again the value itself.It is just a problem of secret recipe problem and whatnot.Do you see every streamer share their setups until video release or company share their real trade secrets.
+No.why.Because Value directly go to bottom.It is a technology.But because dear Linus has created marvelous Linux and have FOSS foundation.People started to tolerate the lose in value.
+Now do not get me wrong.The FOSS and everything is what powered the OpenJDK and all other stuff.But again country limitations and human inherited politics comes in and screw everthing up.
+The fundamental point if it is simple or a small modification on existing system.It can and should be open source to not waste other time.
+
+Not Free as in Beer,BUT do have Most Free in Freedom.
+Money,again the universal standardized object in trading.Simple again nothing is free.Food or energy does not comes from air with a snap of finger.
+Like it or not,Without it the project will not grow thus is needed.The reason is simple,programmer also need food and current goes through the computer to work.
+The programmer cannot just go and farm their own food or setup custom solar charged battery.So yeah money is still needed now,No discussion needed.
+But how do we get the money is the problem.There are many ways,from profit to non-profit.
+To be more specific.It is now(pre-1st ani) using the most simple and naive method.Individual subscription using third party service or the direct purchase.
+There are few possible alternative.Crowdfunding,or CHANGE TO SERVER AND PUT COOKIEESS.lol
+
+But,Let me show you the heaven and hell before you force your ideal on me.
+1,Some part in Korea.Probably as you are reading this.A goverment staff gets a new warning about a user attempting to get truth or info from outside that network.
+Now the user's and relatives lifes is now pretty much DOOMED.The system they are using is based of Linux.Free and Open Source,awesome.
+2,Some other countries.Enjoying and using it normally host server.Host free library,public database for scientific research.User is happy,excited,enjoying it.
+Some organization pays and support the FOSS,EFF and Linux Foundation and others.Developer happy,user happy.Still have edge case,but assume we ignore that.awesome.
+
+Or here another analogy 
+
+Have you ever see games that gave users to do a full map heal ignoring the teammate or enemy property.So when you use it,If the enemy is in range,great.
+Even if it exist,do you seriously see them used in competitive games?If they exist,are they not overpowered skill because the developer found out no one uses them practically.
+Can you imagine 1v1 the boss,and you have a skill called heal and your health is low,so does the boss,but your health is lower.Now you use it to heal and the boss is in range. 
+MASTERPIECE.AMAZING.MLG.SWAG.POG MOMENT.DEFINITION OF LOVE AND PEACE.
+Now imagine if you could just heal your teammate and not the enemy.NO it suck.YOU get shamed for not being fair.Heck yeah,roasted nice and crispy.
+
+Why these two eg,because cover both most of the serious and artistic people.
+
+So now,my final stance as the Creator is very firm.Must have value exchange for any complex system that have decent potential to be modified and used with malicous intent.
+Can Open source,since everyone are happy and can change.Those who wants to abuse.MUST pay then can abuse..Yeah..at least recover the loss in some way.
+-Design with security in mind.a good reminder by a experienced anon.
+If you happen to find a flaw in my logic or reasoning and also have a better solution,please contact me.This has improved a lot.I think should be very good.
+Short Summary,not free now.But definitely can obtain source.No ads,Quality better than past.
+NOTE,this is possibly the current or future project position.
+
+-If a mechanism exists that can be abused,it probably will.By a smart anon.
+
+Of course I also know.-NOTHING IS PERFECT.DEAL WITH IT.ACCEPT SUBJECTIVITY.
+
+Restate current possible known combination.Since there are 3 variable can be tweaked.Other is fixed.With maths there are a total of 9 possible way.(ads,source,money)
+by money it is needed but have many methods to get funds.
+pre 1st ani.
+Main,Cost money per account user or direct trade.No ads,no source,2-3 buck per user.
+ads fork,FOSS but with static ads.X buck by ads sponsor(currently none).WARNING,public free assets and abuseable with zero resist.
+
+During 1st ani.(Chosen and executing)
+Main,Cost money.No ads.Let's say 2 euro pound for the bi-monthly release.
+-1to1,No source,cheaper like 1.
+-1to1,Have source,2.
+Crowdfunding,Have source,any amount.(Not chosen,because most popular massive crowdfund uses many sweet cookies,that has eyes.)
+(to spread the news..I do not want to harm.)
+-Be a contributor,BIG BRAIN MOVE.NOTE,99 precent java.No mix mash language instability.
+
+Future
+-1to1,No source,free?
+-1to1,Have source,not free.
+-bounty,one may found bug and post put bounty,get the release when solved.
+-Be a contributor,pro gRamMer move.NOTE,99 precent java.No mix mash language instability.
+
+Since it is mainly modeled as a Non-profit organization.Here is a overview of the Project Finance status.
+
+INCOME STATEMENT AS OF 06MARCH2021
+Initial balance(PROJ START)	0
+Sales				0
+Less:Expenses			0
+BALANCE C/D			0
+
+Current Project Finance status as of time of writing or pre 1st aniversary release:
+NET Currency balance:0USD
+NET CURRENT ASSET:?USD
+NET LOAN:0USD
+
+Ok that is a bit wrong or fake.That's the best case.Let's try do a more realistic one
+
+INCOME STATEMENT AS OF 06MARCH2021
+				USD
+Sales				0
+Less:Cost of Sales
+Local disk storage		(4)
+				-4
+Less:Expenses
+Water(1*11)			(11)
+Electricity(10*11)		(110)
+rent(10*11)			(110)
+staff salaries(0?)		(0)
+BALANCE C/D			-235
+
+Iesys unregistered non profit company?
+Statement of Financial Position as at 06 MARCH 2021
+					USD
+Current Asset
+Products including archive(3*11)	33
+allowance for unrealised product value	3
+Bank					0
+Cash					0
+Total assets				36
+
+Owner's equity
+									USD
+capital(ignore all equipment value and uncountable assistance received)	0
+Total Equity 								0
+
+Current Project Finance status as of time of writing or pre 1st aniversary release with Over simplification:
+Non Current Liabilities:0
+
+Current Liabilities:0?
+
+
+NOTE.THESE ACCOUNT is NOT A VERIFIED OR VALID ACCOUNTING DOCUMENT.IT IS CREATED FOR SELF AND PUBLIC REFERENCE.or just a joke...or showcase...
+
+Project member?Organization member?:
+Creator(Part time Job,Everything.Marketing.Development.BOOKKEEPING.Accountant.Cashier.Release Quality Check.Management.Min Salary 0USD per month.Max Salary 333USD per month.Nice number.)
+(Not sure if it is lower than some minimum wage.But,he says he is fine with it as there are many similar projects facing same problems.Feels sad.)
+
+END OF FINANCE REPORT AS OF TIME OF WRITING.
+
+All of this may make you feels sad and depressed for various reason.But,wait virtual hug may not reach you but surely a story with jokes will reach you.
+There should be a file called The_1st_aniversary_Iesys_story0.

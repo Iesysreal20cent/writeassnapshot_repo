@@ -1,0 +1,128 @@
+Privacy Policy of Iesys devs as a collective.
+
+Iesys devs respects your privacy,
+Iesys devs CURRENTLY DO NOT HOST SERVER THAT NEEDS TO INTERACT WITH CLIENTS.
+THIS PRIVACY POLICY IS MAINLY FOR THOSE THAT NEED FORMAL CLARIFICATIONS.
+
+PRIMARY RULE.
+1.DESTROY WHOLE THING RATHER THAN SHARING WITH NOT RELATED ENTITY.ESPECIALLY those have monitoring or collecting intent,in ANY circumstances.
+2.NEVER TRACK USER usage by default or in another word NO LOG by default.
+3.Keep It Simple and Secure,As Much As We can with our Resource.
+4.Legal Action taken when end user privacy is NOT preserved by us.WE MUST the distribution of the affected software as soon as possible,except if it is our online public FOSS project.
+Only when PRIMARY RULE is preserved by us,then we are allowed to continue the distribution of the software.
+5.WE ONLY give identified threat info to the entity that protects us from the threat,and only if the offender attempts to harm us Physically.(Don't have much info too,lol)
+6.This section SHALL NEVER BE EDITED by US IN ANY CIRCUMSTANCES,effective as of writing.IT CAN ONLY BE EDITED for Official Legal CLARIFICATIONS.
+
+LIST of NOT RELATED ENTITY as reference=ANY country Government agencies,github,bitcoin,monero,google,apple
+
+some explaination to list.
+ANY country Government agencies.WE DONT CARE.THE APP RUNS REGARDLESS OF USER LOCATION,SKIN COLOR,AGE,etc.
+github.WE DO USE THEIR SERVICE BUT NOT FRIEND.
+bitcoin.A booming cryptocurrency with MINING SCALE NOT desired by devs.WE DONT CARE.
+monero.same like github.But,Better than bitcoin in terms of privacy.
+google.WE DONT CARE.Iesys itself RUNS REGARDLESS OF THEIR EXISTENCE.
+apple.WE DONT CARE.Iesys itself RUNS REGARDLESS OF THEIR EXISTENCE.UNLESS YOU USE MAC.haha.
+
+WHY have the except if it is our online public FOSS project.clause?
+Because it is already public and online.Plus it is a Free as in Beer and Free as in speech project.
+We do not have financial gain by maintaining high quality or standards on those projects.
+Nor do we have the resource to maintain it.
+
+WHY have the ONLY give indentified threat whatever crap.clause?
+Simple reason,these PRIMARY RULE is practically fixed.The others are slightly less hard rule.
+History had proved to us that killing a few people with plan in these days is quite easy.
+It is in fact a spark for World War.No?
+This is just there In place for very sharp edge case.Just Relax and read on.
+
+1)We will NOT collect user usage on software or whatnot in DEFAULT condition nor 
+do the software we release SHALL EVER have the ability to do so in DEFAULT condition.
+If ever have the ability to do so is our problem as a service*.
+Which failed to do its job at maintaining the quality and should fix as much as possible.
+
+2)Then what is the DEFAULT condition?Why cannot say the whole thing never have log or whatever.
+Say,we were to ask what is wrong with your program or setup.That itself is a info.
+And if we truly do not get what is wrong and if you also confuse.
+eg,We COULD sent you a specific one with some tracking how the program flows or log some specific value to debug.
+Of course,you as the one who CONTROL that DEVICE.ALSO ALWAYS HAVE the RIGHT TO REJECT RUNNING IT.
+BUT,INSTEAD WE MAY FAIL TO DEBUG and that's it.unfixed bugs.
+
+3)Section 2 seems like it could make the whole thing fail and force user use your debug one.
+NO,WHAT IS THE POINT OF SELLING OR PROVIDING THE SERVICE THEN.ANYONE CAN DO THE SAME THING.
+There is always some quality control.Whether that is good enough is another story in T&C or whatnot.
+
+4)INFO WE COLLECT AND STORE.
+Why and what do we collect.DO NOT panic.Just read it .
+
+What We collect.
+To do basic business.Of course we will need some of your details to verify transaction.
+ALL transaction info follows the passthrough analogy.NEVER explicit saving it.
+
+WE WILL store the Payment contact node name or unique ID for unlimited time unless requested to remove.
+That info is also linked to a latest payment date.
+NOTE,WE DO NOT SHARING WITH NOT RELATED ENTITY.refer collective Primary RULE 1.
+
+WHY,STORE UNLIMITED TIME.because,NOW MANUALLY MANAGING IT.NOT AUTOMATED won't expire.
+WHY need to store contact unique ID.
+Even phoning you needs your phone number.need to write it in a note or something.IT IS A USEFUL UNIQUE ID.
+WHY LATEST PAYMENT DATE noted.
+BECAUSE CAN PREVENT ONE FROM REPAY using the note.MOST people probably wants that.as of 2021.
+Also recurring buyers is cheaper and that's it.
+WHY link.
+Like cookie online.to smooth the process.Else cannot make basic decision.
+
+WE WILL ALSO STORE debug infomations you provided us FOREVER.Only primary rule can override.
+We will however attempt to anonymize the infomation collected.
+Information FLOW,as example
+When you sent us the debug infomation.We will check and attempt to anonymize it.
+We then save this processed info and use it for our debugging.
+After fixing and whatnot it will go to our current release development logs until next release.
+After any release,We will take the logs move it to password protected archive.
+The archive is password protected with AES-256bit encryption with a password length of at least 20 characters.
+Once archived any request from third party for contents will not be entertained.
+
+What is the use of Archive.
+We will unlock it if need to reproduce those older state,also as a backup or rollback.
+
+WHAT CAN YOU DO TO OPT OUT WHAT YOU DO NOT LIKE.
+IF you DO NOT want our side log anything,
+just sent NOLOG.
+IF you want nolog payment date on our side,
+just sent NOLOGDATE.
+if payment resolver reply with ok.It will be no log on our side.
+Else pls repeat for at least 2 time and make sure the connection is not broken.
+IF after repeat and connection ok.still no reply or ignore.the service is probably hijacked.
+(PLEASE PROCEED WITH CAUTIOUS)
+
+5)OTHER THINGS WE or OTHER RELATED ENTITY INDIRECTLY STORE.
+Such as when you use credit card to pay.it goes through unknown amount of third party which we do not know.
+As of 1st ani release,we still do not have a very good solution for many processes.
+Some solution exist but is kinda out of our ability.
+Sorry but any human memory or computer memory is currently not in our guarentee.
+(Japan does have a news before,someone memorize infos.lol.I(creator) rather sleep or do other fun thing though.)
+
+6)WILL THIS IMPROVE
+Yes,if we have the ability to improve.While user somehow does not get mad at the lack of service.
+EG,if we can make or use a p2p with e2ee system with a automated check and verify payment system and auto quit.
+Or having a system to auto delete all after a period.While user somehow does not get mad.
+
+Privacy Policy and Internet Access of specific SOFTWARE products
+Iesys
+no registration is needed, no connection to the internet is made if you decide to setup and use Iesys.Iesys does not need internet to function properly.
+
+Iesys will NEVER be bundled with Plugins.
+
+Plugins are not required to be enabled for proper functioning of the software, nor will any Iesys function ask for enabling such Plugins.
+
+Plugins that require internet MAY NOT ASK a user explicit permission to use internet while or after enabling the add-on,
+
+Note:CHECK or VERIFY the plugin before hand.
+
+Note:this guarentee ONLY applies to the official signed releases.We always recommend you to use the official signed releases.
+
+Our Other GPL v2 licensed Open Source products
+Other GPL v2 licensed Open Source products respects your privacy,no registration is needed.
+
+END OF PRIVACY POLICY FOR Iesys.
+
+AS OF 1ST aniversary most we keyword can be replaced with I(creator).lol.
+Also huge thanks to blender org as a reference.

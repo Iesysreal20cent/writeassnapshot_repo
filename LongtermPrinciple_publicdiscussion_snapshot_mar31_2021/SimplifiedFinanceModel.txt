@@ -1,0 +1,54 @@
+reference.https://en.wikipedia.org/wiki/Source-available_software
+reference.https://mjg59.dreamwidth.org/51177.html
+
+Fair,This is a key to control power and value.
+
+A structure overview is.
+    d8                                                       ,.
+    dP                                                       d8
+    8b                                                       d8
+    8b    patches             AIM&PRINCIPAL       releases   d8
+    8b        _>                 o8b.               .._      d8
+    8b       '/`:                Y88[               || `-    d8
+    8b       /' `..              888'               |`|      d8
+    8P       |                   888                  |      d8
+   ]8[       \                   888                 ,|      d8
+___d8_________`._________________888________________,/_______d8______
+   8P                                               '        d8
+   8b ALL CORE DEVS(YES,we are all equal fundamentally.)     d8
+   8b         One can only be more significant by            d8
+   8b          Taking more responsibilies.                   8P
+   8b           But,ALL follows the rules.                  d8'
+   Y8                                                       d8
+   `PP8oooo._                                              ,8F
+         ':"YPPYboo__                                      d8'
+          |      P`"YPPYbooo.__                 __________,8F
+          |     /         `'""YPPYboooooooooodPPP""""""""""'
+    ideas |    / reports         |                  \b
+          |   ,'                 |                    ``o_
+          |  '                  ,'                 Single entity BIG
+     COMMUNITY  ` b_        _,-'                     Contribution.
+                    `'''''''                       (Probably won't)
+                     PLugins                         happen,lol.
+                                                    NOTE,no skip layer
+
+
+ Main reference,blender org
+
+Created with JavE.
+
+It should be quite fair.The core is very stable.The Aim and Principal should be very strong.
+
+You may be curious it does not seems to just state power model,not financial model.
+
+The reason is simple.
+Just change the software contribution to financial contrbution it is also almost the same.
+
+The changes are just reversing the arrows in core.
+
+Then what qualify as a core devs to receive that?
+Very simple ,there are only two case.Contribution or formal contract based.
+As usual to be fair.Anyone that has helped improve the product more will receive more.
+Contract based,is just like most jobs that are in the world,as of 2021.still exist and used.
+
+That it for now,written as of 1st ani release.

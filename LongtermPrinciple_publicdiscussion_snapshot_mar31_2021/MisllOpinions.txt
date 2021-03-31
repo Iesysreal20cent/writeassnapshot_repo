@@ -1,0 +1,57 @@
+First and foremost.This is at top because found as a common point.
+There are no other entity that can punish some entity once its level reaches a certain level.
+There are also no good international law or a absolute fair entity.
+
+1)Politics_debates_discussion
+
+For Any future politics.These few days had seen the rms rumor news here and there.
+
+We know that the reason that you support most FOSS project started as moral ideal.
+As good privacy or security is also generally of moral idealogy.
+
+Thus,when there are someone related to us do something immoral in your opinion.
+Before you shout your opinions.We do have some guidelines.
+Be it a Project Manager or Lead Maintainer or a staff.The logic is the same.
+1,If it is private space and not related to us we may not bother.
+2,We will look at prove,opinions,facts.Just sent to us and relax.
+
+Why do we have this crappy guidelines.
+1,Who cares about staff that do something you do not like.fire staff that likes R25 game?
+2,If it does not affect our product.We do not have much right to judge.No?
+3,Being Pro FOSS,Pro Privacy,Pro Open Standard,etc.should already be hard enough.
+4,No one is perfect.Relax.We may control some,not all.We are not Creepy dictators.
+
+If you are still unstable.
+Try eating an apple and share that apple with your friend.They will feel 100% happy.
+(Right?Why not?How?)
+Relax and enjoy your day.like a fairly balanced game.Some happy,some sad.Just slice of life.
+
+2)Rights_to_repair_modification
+
+Stances on Rights of repair and modification.
+As a organization that uses and promotes Freedom and Open Source Software.
+
+We believe that users should have the right to repair or change however they want.
+
+Of course,nothing in real world is perfect.
+There is always going to be abuser.What is the limits then?
+
+We do not have other limits as long as they follow the license and terms and conditions.
+Which is what MOST all source code and program does as of 2021,just no explicit statement.
+Whether you think it is good or bad is not important and do not need to debate.
+The reason is simple because software itself is very flexible.
+Also we do not have the time nor resource to fight with the modifier.
+Also there are no secure and efficient system to mark a product.
+We also believe the users that pays for our software should have the trust they deserve.
+
+Anyway,we do hope our product is powered by fine users,instead of some Business Man.
+
+3)How we(Me the Creator.lol) feel about ourself at 1st ani.
+As you can see from the license or terms and condition.It is a very unique commercial license.
+A major factor is simply to protect user and maintain quality,unlike some generic squeeze resource from user t&c.As of Feb 2021,most data leak in commercial product do not give user fallbacks.
+Of course,most of those platform is web service.Those who prefer webservice gets what they should have expected and it is their choice.
+The part where we are proud and confident is the Section 1 of Iesys t&c,It is a very solid and hard rule which most large mainstream platform FAILS at.
+As of Feb 2021,almost all popular centralized social media use user data to do personalized ads without user consent.
+However as a reminder,Most part in the license is untested in a legal court and unverified by a certified lawyer.
+Also a bit fascinated because doing some office work in some store will have net income more than this project.lol.
+Also proves that software redundancy is a thing already.As there are plenty totally free software here and there.Which is awesome in its own way.
