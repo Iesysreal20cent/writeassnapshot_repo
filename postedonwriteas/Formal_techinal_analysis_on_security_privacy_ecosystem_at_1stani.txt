@@ -1,0 +1,150 @@
+As a privacy and security centric service of course.We need to check our progress and status.
+
+AS OF 12Mar2021
+
+Let's start with privacy and check on ecosystem and principals.
+Reference.
+https://seirdy.one/2021/01/27/whatsapp-and-the-domestication-of-users.html
+
+Start of checking.
+User domestication
+It is inherited to have a bit of dependence on any system.ESPECIALLY HOMESYS or whatever.
+However.We passed the second check.That is the ability to control software.
+Two check is given from there.
+1)modification of the software.Pass,as of 1st ani release a source available release is available.
+2)Prevent migration onto a different platform?NO,I DO NOT prevent user move.
+It is your Iesys,homesys.You think I have a say.Lol.The specifications is also available.
+Probably public if can host and read.
+
+Software freedom.
+
+    The freedom to run the program as you wish, for any purpose
+    The freedom to study how the program works, and change it so it does your computing as you wish
+    The freedom to redistribute copies so you can help others
+    The freedom to distribute copies of your modified versions to others
+
+All is true.And as stated in some other official post,freedom is given.
+But those who will abuse it will then be expected,and having the fee is possibly the last barrier.
+Making money with customization support and training.Not now.
+
+Simplicity.
+Should be a easy pass.Most codes is less than 2 thousand lines of code.
+The system is mainly based on user customization and had specifications.
+
+For bloat like web.Since there are already specifications and older system to rollback.
+We can definitely rollback branch out a minimalistic and keep the fat bloated one.
+
+NOTE,these all is mainly possible because no network,no track,no relation,no dependencies.
+Your homesys can be bloat others can be minimalistic,likewise.This is not possible with browser and network design.
+Please use the features well.
+
+Open platform.
+A few service or competitor is welcomed.But honestly it is open anyone can built upon or chg it.
+But just like any open system.Not all people is constructive.Lol.Some do very small good fork.Some change to more bad.
+But,in the end users will be more confused and need more time to choose and same like linux distros.
+Also just like anything.It is double edge sword.It can be a poison blade or heal blade.
+The normie end users will again most likely depends a LOT on marketing.Thus make it very stupid and confusing...
+Personally,one or two healthy comparable competitors is fine.A marketing based competetitor is disliked.
+But again,what can I do.OPEN PLATFORM.they can market and do whatever shady crap they want.If user gets tricked.
+I guess sucks to be them.
+
+Open,more choice,more possibilities,but not all possibilities are good.
+
+End of reference one analysis
+
+Reference 2.
+
+Security 
+
+https://dzone.com/articles/java-application-security-frameworks
+
+Start of checking.
+
+The whole system in base is always local only no network or tracking or id check whatnot.
+
+
+    SQL Injection.
+    Broken authentication and session management.
+    Cross-Site Scripting (XSS).
+    Insecure Direct Object References.
+    Security Misconfiguration.
+    Sensitive Data Exposure.
+    Missing Function Level Access Control.
+    Cross-Site Request Forgery (CSRF).
+    Using Components with Known Vulnerabilities.
+    Unvalidated Redirects and Forwards.
+
+Thus only these local applicable security flaw is needed to be taken care.
+
+Broken authentication and session management.
+Missing Function Level Access Control.
+Using Components with Known Vulnerabilities.
+Insecure Direct Object References.
+Security Misconfiguration.
+Sensitive Data Exposure.
+
+Missing Function Level Access Control.
+This is a known flaw and has been improved since the software is in a very early phase.
+
+Using Components with Known Vulnerabilities.
+This is known flaw and has try to mitigate by using newer components.
+
+Sensitive Data Exposure.
+The user personalization file is a perfect example clear text no encryption.
+
+All these is known.
+Is it be very bad?How severe?Under what condition get triggered?How to mitigate?
+1)It is quite bad.
+2)Each of them is a critical hit.That may leak your personal infomation.
+3)Each of them have different specific condition.But all shares a very common condition,read and write access to your computer.
+The read may be screen keyboard activity log to monitor a memory change.
+Write could be writing new mouse position writing new code.executing custom code
+4)We go from the most general to less general'
+First,Use the right tools.It is not a replacement for a full fledged up to date proper browser,nor a proper video player.Find the real thing then find plugin.
+Second,used plugin need to be trusted.else yeah executing custom code.May go from fixing computer to delete all usefu pictures.
+Third,networking as a whole is discouraged.As networking itself is a very complex topic.
+Forth,Read and understand the code once before excuting it.Any code you totally cannot understand and do not have comment is either product by bad programmer or
+intentionally made to to hide the shady stuff.
+Fifth,make sure your os,browser setup itself is secure.Else,there is no point.As shown the direct read and write access is a very critical hit.Use opsec well
+
+Beyond that,your computer is probably physically obtained or fully controlled by the offender in which you may be better of buy a gun,hire a trusted bodyguard.
+Learn some selfdefense or get a good Backup and encrypt the data.
+
+END OF SECURITY CHECK 1
+
+Software Stability.
+Language dependencies.(2 max for software as a whole.ignoring os and filesystem dependencies.)
+All language dependent have a formal specification.
+UNIX:sh with POSIX standards,JLS,JVMS
+Windows:batch file(CLOSED STANDARD.no open specification.But stable),JLS,JVMS.
+
+Software dependencies stability.(all dependencies is almost always forward compatible.)
+
+List of all used specifications ignore hardware and OS specifications.
+UTF-8 text specification.
+sh with POSIX standards,
+JLS,
+JVMS
+CSS2.1,inherited from javafx gui styling.removeable if needed)
+personalization_v1(self made,forward compatible)
+pluginspec_v1(self made,forward compatible)
+unifuncspec_v1(self made,forward compatible)
+
+END OF SOFTWARE STABILITY CHECK.
+
+START OF CUSTOM SECURITY HARDENING CHECK.
+
+STATUS UNKNOWN.UNVERIFIED.
+ALL use common official packages.
+
+Hardened malloc?
+Built in Java Security?Default.
+
+END OF CUSTOM SECURITY HARDENING CHECK.
+
+SUMMARY over simplified.
+YES.
+SOFTWARE FREEDOM,Simplicity,Open platform.Software Stability.
+
+NO,
+CUSTOM SECURITY HARDENING CHECK.

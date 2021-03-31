@@ -1,0 +1,71 @@
+To choose a product.You need to know what is the benefits,or specs.
+
+Technical spec:(as of v0799 release,which is 1st aniversary build)
+Have Reproducible builds(verified tested with two seperate build windows certutil SHA512 compare,also verified once by anon on linux).
+Tested on JDK14 as official known lowest min JDK version needed.Pure java.Currently uses modified prebuilt binaries zulu-community from Azul.(once tested by anon with OpenJDK11.)
+No mix mash language,(Clean no python sudden fail.The script to compile with the OS wide scripts like bash or batch).
+Multi threaded system.Min two thread recommend.One gui,One background cmd.(BTW,your OS spins probably around 8-infinity).
+As secure and as efficient as possible within our knowledge and resource,while not making the code extremely hard to be maintained and customized.
+User Customization are standardized and have specification and pre release tests.
+Can utilize JDK9 modular system,custom jre with jlink.Have official releases with custom jre which are tested.
+
+Technical spec with analogy for normies:
+1)THE RELEASE APP IN DEVELOPER COMPUTER IS THE SAME ON YOUR DEVICE.You can RE-build.can check signature.IT SHOULD be the same.Else means modified by SoMe..
+It is similar to verifying the parsel.high quality.Official will always have the signature you can check.DEVELOPER also SHOULD INCLUDE TOOLS for users unless.The developer forgets...
+2)You can go online download other JDK14 or above binary for your hardware,update some parts and it should work perfectly.IF you know how to replace it properly.Very cool feature..
+many company prebuilt JDK.IBM,openJDK,currently uses Zulu ones,because they are consistent and no AOT compile and less many technical flexibility and complexity which could confuse user.Thanks zulu.
+3)Analogy.No manual mix auto gear car.No mix solar powered and petrol car.Dont get me wrong.they are generally fine IF AND ONLY IF WELL ENGINNEERED.BUT,I AM SOLO.AS OF NOW...maybe..
+4)Multi threaded system.Yes,no worry your devices probably is quad core or whatnot.This only need dual,2 as minimum.you probably have quad,4,so don't worry.
+5)As secure and as efficient for most daily user need,the security probably will NOT be national security level.UNLESS the developer had the chance to experience and learn properly.
+Even if the Devs learned they also need to implement it which needs time.Also if the community TOTALLY cannot understand then user cannot customize.
+Then poses the choice of security or user friendly problem.BUT,DONT WORRY BECAUSE FOR NOW THE DEV ARE TOO POOR to make this a full time job,so learning slowly..
+So,as an advice.Do not use this to create over complex plugin or do security critical surfing.Instead use tor browser or whatnot which are specifically built to go the chaotic internet.
+Places like gemini capsules instead is probably ok.
+6)It guarentees that it won't need you to update your customization UNLESS DEVELOPER have statement.probably is a VERY BIG NEWS.
+As example,your grandma,grandpa can just download copy paste delete and it will works the same.FOR ALMOST ALL OF THE TIME.AMAZING.
+The UI,the style,the commands is all the same.Nothing will change for user.UNLESS have announce BACKWARD COMPATIBILITY IS BROKEN(DEV will probably give very damn good reason to do so).
+7)Have official releases of Minimal CUSTOM ENGINE.Hope analogy makes sense.It is tuned SPECIFICALLY to make sure the base works,small,fast,stable,secure.
+But,some of your custom bloated plugin may NOT work and it is EXPECTED.Just like a CUSTOM made car MAY NOT have 6 seat or air cond.IT SHOULD MAKE SENSE,IT IS NOT A BUG.
+
+User choice table(left or right)
+Dev,stable	:Development release is not very stable and may not work perfectly,while stable can just setup and use it should just works.
+ori jdk,custom jre:all plugin should work in ori jdk.while the other may have plugin problem,NOTE java.base contain java.net.So there NO guarentee for bad networking code in plugins.
+Have src,no src:Do you understand java programming language.Do you want to check or change how it works.If both yes.Get the src.Else no need.
+
+Common Quick preset.
+1.reproducibility guarentee(Yes,No) on stable release:If Yes,Get the Release with JDK,or other jdk IF know how to setup JDK and compile,NOTE MUST HAVE source.
+1.Minimal stable release:official customjre,no source,Stable release.
+
+Known product.
+There are two release
+Bi-Monthly releases,Development releases.
+(custom jre or full jdk is up to user choice.Will be given both)
+NOTE,DEVELOPMENT RELEASE MAY CRASH.INCONSTRUCTIVE COMPLAINS ABOUT DEVELOPMENT RELEASES WILL TREATED the same as null.
+
+1st time buyer.
+No src,just binaries.1Pound
+Have src and binaries.2Pound
+subsequent purchase.
+No src,just binaries.0.75 pound
+Have src and binaries.1.5 pound
+(Have source will include the tools to reproduce build)
+
+EVERYTHING IS DOCUMENTED EVEN HAVE A EQUATION,No arguements.OK?
+
+Used Exchange rate for 2021.
+1XMR,monero=150Pound
+thus,1Pound=0.00666... approx=0.0066
+THAT IS USED AS UNIT,NO DEBATES NEEDED.I DO NOT HAVE THE TIME to read AND BARGAIN.BUSY learning.
+
+If you want to just buy and use ASAP.
+patreon page which may went away if no user...https://www.patreon.com/customxyz
+monero Iesys wallet address:48RvtQBrcLUTioqD5WwMtd5GudtcDXFD172XjvRtY1eVZNA7xT3MrEq2QDufzjdWzoKx4Qy3KVUni9sN34DmkPm9KFb8Kpq
+
+Payment and Receiving flow.
+Pay->(Manual verify payment)->get info on how to get product.->get it->setup->(VERIFY?)->use.(repeat in next bi-monthly release.)
+Patreon fast non anon route.(Go patreon subscribe*,bank verify,click post find link,click,download,setup,run)
+Max secure private route.Monero transfer,torbox or matrix find us.verify payment,download,Verify the signatures.Delete the prebuilt binaries,or Rebuilt on your own it will overwrite.
+Verify SHA make sure it is same.Look through code(If you understand and have time.lol.)->setup->run
+
+FAQs is in another file,Privacy Policy is in another file.
+Most documents can be found online on.http://writeas7pm7rcdqg.onion/iesyssoftwareofficialwriteas
